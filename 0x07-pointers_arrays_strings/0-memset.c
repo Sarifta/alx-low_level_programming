@@ -5,7 +5,7 @@
  * @b:  constant byte that will be used to fill memory
  * @n: number of bytes that will to be filled with contant b 
  *
- * Return: s
+ * Return: pointer s
  */
 char * _memset(char *s, char b, unsigned int n)
 {
